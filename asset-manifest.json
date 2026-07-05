@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mepteglobal/static/css/main.e6c13ad2.css",
-    "main.js": "/mepteglobal/static/js/main.0a48f3aa.js",
+    "main.js": "/mepteglobal/static/js/main.78999dce.js",
     "static/media/aboutimg.jpg": "/mepteglobal/static/media/aboutimg.a152047056057c7ccf5f.jpg",
     "index.html": "/mepteglobal/index.html",
     "main.e6c13ad2.css.map": "/mepteglobal/static/css/main.e6c13ad2.css.map",
-    "main.0a48f3aa.js.map": "/mepteglobal/static/js/main.0a48f3aa.js.map"
+    "main.78999dce.js.map": "/mepteglobal/static/js/main.78999dce.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0a48f3aa.js"
+    "static/js/main.78999dce.js"
   ]
 }
