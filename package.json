@@ -16,7 +16,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "caniuse-lite": "^1.0.30001706",
     "emailjs-com": "^3.2.0",
     "es-abstract": "1.23.2",
     "lightbox.js-react": "^1.0.4",

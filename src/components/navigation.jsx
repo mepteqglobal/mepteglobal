@@ -339,7 +339,7 @@ export const Navigation = () => {
 
   // Navigation items - FIXED the typo and improved routing
   const navItems = [
-    { name: "Home", link: "/", active: currentPath === "/" },
+    { name: "Home", link: "/", active: currentPath === "#" },
     { name: "About", link: "#about", active: currentPath === "#about" },
     {
       name: "Projects",
