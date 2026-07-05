@@ -1,0 +1,221 @@
+{
+  "Header": {
+    "title": "Wecome to Mepteq Engineering and Consultancy",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Mepteq Global Engineering & Consultancy is a multi-task Design and engineering consultancy firm founded by Mr. Devendra P Dhake, who has been working for over two decades in the field of building services and has vast exposure to various kinds of projects including Hotels, Institutional, Commercial, Residential, Industrial, heath Industries in Middle East, India & Africa, and successfully completed many projects across these countries. He has served in some good projectoriented organizations like -PPC Limited, Nigeria (affiliate of Philips Electronics N.V. of the Netherlands). Batliboi Limited.",
+    "Why": [
+      "Studies, Reports, Investigations, Surveys & Evaluations",
+      "Cost Estimation & Feasibilities",
+      "Detailed Designs & Drawings"
+      
+    ],
+    "Why2": [
+      "Scrutiny & Analysis of Bids",
+      "Supervision & Management of Construction or Contracts",
+      "Quality Control, Testing & Commissioning"
+      
+    ]
+  },
+
+  
+  "Gallery": [
+    {
+      "title": "Wallace Pharmaceutical",
+      "largeImage": "img/portfolio/walll.png",
+      "smallImage": "img/portfolio/walls.png"
+    },
+    {
+      "title": "Raddison Hotel",
+      "largeImage": "img/portfolio/raditl.png",
+      "smallImage": "img/portfolio/radits.png"
+    },
+    {
+      "title": "Raddison Hotel",
+      "largeImage": "img/portfolio/radl.png",
+      "smallImage": "img/portfolio/rads.png"
+    },
+    {
+      "title": "Sugee Developer",
+      "largeImage": "img/portfolio/marinal.jpg",
+      "smallImage": "img/portfolio/marinas.jpg"
+    },
+    {
+      "title": "Mr. Toshniwal's Villa, Alibaug",
+      "largeImage": "img/portfolio/toshniwal.jpg",
+      "smallImage": "img/portfolio/toshniwal.jpg"
+    },
+    {
+      "title": "Mr. Kejriwal's Villa, Alibaug",
+      "largeImage": "img/portfolio/kejriwal.jpg",
+      "smallImage": "img/portfolio/kejriwal.jpg"
+    },
+   
+    {
+      "title": "LM Tower, Bhiwandi",
+      "largeImage": "img/portfolio/lmtower2.jpeg",
+      "smallImage": "img/portfolio/lmtower2.jpeg"
+    },
+  
+    {
+      "title": "Rectification and MEP Audit",
+      "largeImage": "img/portfolio/rectil.jpg",
+      "smallImage": "img/portfolio/rectis.jpg"
+    },
+    {
+      "title": "Sanctuary Villa’s by Gauri Khan",
+      "largeImage": "img/portfolio/sanctl.jpg",
+      "smallImage": "img/portfolio/sancts.jpg"
+    },
+    {
+      "title": "Weatherford,Abu Dhabi",
+      "largeImage": "img/portfolio/Weatherford.jpeg",
+      "smallImage": "img/portfolio/Weatherford.jpeg"
+    },
+    {
+      "title": "Burj Khalifa tower",
+      "largeImage": "img/portfolio/b2.jpeg",
+      "smallImage": "img/portfolio/b2.jpeg"
+    }
+  ],
+
+  "HVAC": [
+    {
+      "largeImage": "img/portfolio/hvacl1.webp",
+      "smallImage": "img/portfolio/hvacs1.webp"
+    },
+    {
+      "largeImage": "img/portfolio/hvacl2.webp",
+      "smallImage": "img/portfolio/hvacs2.webp"
+    },
+    {
+      "largeImage": "img/portfolio/hvacl2.webp",
+      "smallImage": "img/portfolio/hvacs2.webp"
+    }
+
+  ],
+
+  "Elv": [
+    {
+      "largeImage": "img/portfolio/electl1.png",
+      "smallImage": "img/portfolio/elects1.png"
+    },
+    {
+     
+      "largeImage": "img/portfolio/elvl2.jpg",
+      "smallImage": "img/portfolio/elvs2.jpg"
+    },
+    {
+     
+      "largeImage": "img/portfolio/elvl3.jpg",
+      "smallImage": "img/portfolio/elvl3.jpg"
+    }
+  ],
+
+  "Plumber": [
+    {
+      
+      "largeImage": "img/portfolio/pluml1.jpg",
+      "smallImage": "img/portfolio/plums1.jpg"
+    },
+    {
+     
+      "largeImage": "img/portfolio/firel3.jpg",
+      "smallImage": "img/portfolio/fires3.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/pluml2.jpg",
+      "smallImage": "img/portfolio/plums2.jpg"
+    }
+  ],
+
+
+
+
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/wallace.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Ashwini Anand"
+    },
+    {
+      "img": "img/testimonials/parle.webp",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Piyush Dhake"
+    },
+    {
+      "img": "img/testimonials/rhf.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Shubham Gupta"
+    },
+    {
+      "img": "img/testimonials/cartrade.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Shubham Gupta"
+    },
+    {
+      "img": "img/testimonials/radisson.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Piyush Dhake"
+    },
+    {
+      "img": "img/testimonials/suugee.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Ashwini Anand"
+    },
+    {
+      "img": "img/testimonials/bajaj.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Shubham Gupta"
+    },
+    {
+      "img": "img/testimonials/jsm.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Shubham Gupta"
+    },
+    {
+      "img": "img/testimonials/sanctuary.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Piyush Dhake"
+    },
+    {
+      "img": "img/testimonials/lm.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Ashwini Anand"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mr. Devendra P Dhake",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mr. Devendra P Dhake",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mr. Devendra P Dhake",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mr. Devendra P Dhake",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "A-101, Kiran Kunj Chs, Dombivli, Dist.- Thane ",
+    "phone": "+91-7798097620",
+    "email": "Info.mepteq@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+  
+
+}

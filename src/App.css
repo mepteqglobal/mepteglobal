@@ -1,0 +1,24 @@
+@media screen and (max-width: 400px) {
+  #about,
+  #services,
+  #testimonials,
+  #contact,
+  #Elv,
+  #footer {
+    width: 175%;
+  }
+
+  #portfolio, #hvac-system {
+    padding: 10px;
+    width: 115%;
+    margin-left: 110px;
+  }
+
+  #header {
+    /* margin-left: 42px; */
+  }
+
+  .intro h1 {
+    font-size:9rem
+  }
+}
